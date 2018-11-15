@@ -1,0 +1,7 @@
+[package]
+name = "fsix"
+version = "0.1.0"
+authors = ["Devon Herlitz <devonherlitz@gmail.com>"]
+
+[dependencies]
+ggez = "0.4"
